@@ -1,0 +1,42 @@
+# Secrets
+.env
+*.key
+*.pem
+*.crt
+*.p12
+*.enc
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Databases
+*.sqlite
+*.db
+*.sql
+
+# Compiled Code
+*.class
+*.exe
+*.o
+*.out
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.sublime-workspace
